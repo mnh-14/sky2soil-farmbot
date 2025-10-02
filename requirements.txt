@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain_community
+huggingface_hub
+sentence-transformers
+faiss-cpu
